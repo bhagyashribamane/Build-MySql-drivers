@@ -1,0 +1,19 @@
+# ninja log v6
+3733	3963	7816264071366656	CheckMySql.exe	85dae4ce1c947eaa
+32	64	7816264032985471	CMakeFiles/clean.additional	baedbe210acaa455
+25	946	7816264042459558	CheckMySql_autogen/timestamp	f688128038f917e6
+25	946	7816264042459558	CheckMySql_autogen/mocs_compilation.cpp	f688128038f917e6
+25	946	7816264042459558	C:/Users/PCSPL-DRWING/Documents/QT/CheckMySql/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CheckMySql_autogen/timestamp	f688128038f917e6
+953	3733	7816264043507384	CMakeFiles/CheckMySql.dir/mainwindow.cpp.obj	b44722dc41a9acde
+25	946	7816264042459558	C:/Users/PCSPL-DRWING/Documents/QT/CheckMySql/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CheckMySql_autogen/mocs_compilation.cpp	f688128038f917e6
+947	3606	7816264043506098	CMakeFiles/CheckMySql.dir/CheckMySql_autogen/mocs_compilation.cpp.obj	b68484871376ce29
+950	3516	7816264043507384	CMakeFiles/CheckMySql.dir/main.cpp.obj	ca554668a5196c16
+58	872	7817145087336996	build.ninja	50f481298786328a
+58	872	7816258461708553	C:/Users/PCSPL-DRWING/Documents/QT/CheckMySql/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/cmake_install.cmake	50f481298786328a
+64	74	7816264033318309	clean	577b940aee94fbd7
+34	208	7817145152515934	CheckMySql_autogen/timestamp	f688128038f917e6
+34	208	7817145152515934	CheckMySql_autogen/mocs_compilation.cpp	f688128038f917e6
+34	208	7817145152515934	C:/Users/PCSPL-DRWING/Documents/QT/CheckMySql/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CheckMySql_autogen/timestamp	f688128038f917e6
+34	208	7817145152515934	C:/Users/PCSPL-DRWING/Documents/QT/CheckMySql/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CheckMySql_autogen/mocs_compilation.cpp	f688128038f917e6
+210	2526	7817145154326292	CMakeFiles/CheckMySql.dir/mainwindow.cpp.obj	b44722dc41a9acde
+2526	2861	7817145177495592	CheckMySql.exe	85dae4ce1c947eaa
