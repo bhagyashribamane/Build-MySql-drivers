@@ -1,0 +1,9 @@
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/MySqlTest.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/edit_cache.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/rebuild_cache.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/list_install_components.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/install.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/install/local.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/install/strip.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/MySqlTest_autogen_timestamp_deps.dir
+C:/Users/PCSPL-DRWING/Documents/QT/MySqlTest/build/CMakeFiles/MySqlTest_autogen.dir
