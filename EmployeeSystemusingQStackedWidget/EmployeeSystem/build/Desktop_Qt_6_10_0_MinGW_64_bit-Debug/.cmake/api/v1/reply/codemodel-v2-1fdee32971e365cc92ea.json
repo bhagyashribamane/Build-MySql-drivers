@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dc404da8ddf90b877829.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EmployeeSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EmployeeSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EmployeeSystem-Debug-ac5dd859936221deabed.json",
+					"name" : "EmployeeSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EmployeeSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EmployeeSystem_autogen-Debug-de9f95881771280a9cf0.json",
+					"name" : "EmployeeSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EmployeeSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EmployeeSystem_autogen_timestamp_deps-Debug-8c1306337e80b4558ba4.json",
+					"name" : "EmployeeSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/PCSPL-DRWING/Documents/QT/EmployeeSystemusingQStackedWidget/EmployeeSystem/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/PCSPL-DRWING/Documents/EmployeeSystemusingQStackedWidget/EmployeeSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

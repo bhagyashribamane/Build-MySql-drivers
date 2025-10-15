@@ -1,0 +1,19 @@
+# ninja log v6
+9	1043	7820436583362491	EmployeeSystem_autogen/timestamp	6626b12ba487ccba
+9	1043	7820436583362491	EmployeeSystem_autogen/mocs_compilation.cpp	6626b12ba487ccba
+9	1043	7820436583362491	C:/Users/PCSPL-DRWING/Documents/QT/EmployeeSystemusingQStackedWidget/EmployeeSystem/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/EmployeeSystem_autogen/timestamp	6626b12ba487ccba
+9	1043	7820436583362491	C:/Users/PCSPL-DRWING/Documents/QT/EmployeeSystemusingQStackedWidget/EmployeeSystem/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/EmployeeSystem_autogen/mocs_compilation.cpp	6626b12ba487ccba
+1054	3989	7820436584300069	CMakeFiles/EmployeeSystem.dir/main.cpp.obj	a2896229c895ce79
+1051	4443	7820436584270095	CMakeFiles/EmployeeSystem.dir/EmployeeSystem_autogen/mocs_compilation.cpp.obj	ba608f019debe544
+1057	4554	7820436584329918	CMakeFiles/EmployeeSystem.dir/mainwindow.cpp.obj	37be60169504b4f3
+1063	4815	7820436584389759	CMakeFiles/EmployeeSystem.dir/employeelogin.cpp.obj	d353fa1e7fe24ebb
+1060	5054	7820436584359822	CMakeFiles/EmployeeSystem.dir/employeedashboard.cpp.obj	71dcbe6576b93b64
+5055	5444	7820436624312978	EmployeeSystem.exe	db90ec9a4aebdb46
+67	336	7820486803396049	EmployeeSystem_autogen/timestamp	6626b12ba487ccba
+67	336	7820486803396049	EmployeeSystem_autogen/mocs_compilation.cpp	6626b12ba487ccba
+67	336	7820486803396049	C:/Users/PCSPL-DRWING/Documents/QT/EmployeeSystemusingQStackedWidget/EmployeeSystem/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/EmployeeSystem_autogen/timestamp	6626b12ba487ccba
+67	336	7820486803396049	C:/Users/PCSPL-DRWING/Documents/QT/EmployeeSystemusingQStackedWidget/EmployeeSystem/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/EmployeeSystem_autogen/mocs_compilation.cpp	6626b12ba487ccba
+338	6733	7820486806103990	CMakeFiles/EmployeeSystem.dir/mainwindow.cpp.obj	37be60169504b4f3
+346	6955	7820486806115658	CMakeFiles/EmployeeSystem.dir/employeelogin.cpp.obj	d353fa1e7fe24ebb
+342	7270	7820486806115658	CMakeFiles/EmployeeSystem.dir/employeedashboard.cpp.obj	71dcbe6576b93b64
+7270	8009	7820486875427290	EmployeeSystem.exe	db90ec9a4aebdb46
